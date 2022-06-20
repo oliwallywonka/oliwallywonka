@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hey, I´m Alex 👋
+---
+I live in La Paz - Bolivia, I like music, play videogames, and coding. 
+
+### Get in Touch
+
+### What I Work Whit
+
+
+### I´m Currently Learning
+
 
 <!--
 **oliwallywonka/oliwallywonka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
